@@ -7,7 +7,9 @@ The tool `archive-repo.sh` can be used to mirror a gitlab repository, create a t
 The tool requires aws-cli, lesume and a gitlab token.
 
 ### Syntax
-chmod +x archive-repo.sh
-export $GITLAB_TOKEN=yourgitlabtoken
-lesume.sh sandbox 333333
-./archive-repo.sh vidispine/jenkins/build-scripts.git
+```
+chmod +x archive-repo.sh  
+export $GITLAB_TOKEN=yourgitlabtoken  
+lesume.sh sandbox 333333  
+./archive-repo.sh vidispine/jenkins/build-scripts.git  
+```
