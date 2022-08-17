@@ -1,4 +1,4 @@
-# vidispine-gl-to-ado
+# Vidispine tools for migration
 Tools for migration from Gitlab to Azure DevOps
 
 ## Archive project to S3
